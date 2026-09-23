@@ -94,6 +94,7 @@ g++ "你的源码文件名.cpp" "icon.res" -o "你的输出程序名.exe" -stati
 
 💬 反馈与交流
 如果你在使用过程中遇到 Bug，或者有新的语法想法，欢迎在 Issues 区提出！
+「**遇到问题？去 [Issues](https://github.com/lixytag/Lpp/issues) 反馈**」
 
 也欢迎通过以下邮箱直接联系我：
 📧 lizi369gz@126.com
